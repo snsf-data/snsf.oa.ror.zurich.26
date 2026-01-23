@@ -32,4 +32,5 @@ devtools::install_github("snsf-data/snsf.oa.ror.zurich.26")
 
 The code to reproduce the analysis is available in the [“Monitoring open
 access publications at the SNSF: the challenges of open academic data”
-vignette](./articles/ror_presentation.html) under the article section.
+vignette](https://snsf-data.github.io/ERforResearch/articles/ror_presentation.html)
+under the article section.
