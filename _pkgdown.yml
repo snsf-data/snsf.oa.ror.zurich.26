@@ -1,0 +1,17 @@
+url: ~
+template:
+  bootstrap: 5
+  bslib:
+    font_scale: 1.1
+    fg: "#172431"
+    bg: "white"
+    border-radius: 0.5rem
+    btn-border-radius: 3px
+    grid-gutter-width: 3rem
+    pkgdown-nav-height: 78px
+  code:
+    width: 71
+
+development:
+  mode: release
+  destination: ../inst/pkgdown

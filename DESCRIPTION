@@ -1,0 +1,42 @@
+Package: snsf.oa.ror.zurich.26
+Title: Code and data for an analysis of the SNSF OA monitoring presented
+    at ROR Zürich 2026
+Version: 0.0.0.9000
+Authors@R: 
+    person("Simon", "Gorin", , "simon.gorin@snf.ch", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-7462-0446"))
+Description: This package contains the code and data to reproduce an
+    analysis presented at the Research on Research Event in Zürich on
+    2026/01/29. The analysis focuses on the coverage, within different
+    academic databases, of scientific publications identified from Swiss
+    National Science Foundation (SNSF) grants. Identifying these
+    publications is critical for monitoring the open access of
+    publications from SNSF grants.
+License: MIT + file LICENSE
+Depends: 
+    R (>= 3.5)
+Imports: 
+    dplyr,
+    forcats,
+    httr,
+    jsonlite,
+    openalexR,
+    purrr,
+    rcrossref,
+    readr,
+    stats,
+    stringr,
+    tidyr
+Suggests: 
+    ggplot2,
+    knitr,
+    rmarkdown,
+    snf.datastory (>= 0.1.4)
+VignetteBuilder: 
+    knitr
+Remotes: 
+    snsf-data
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
