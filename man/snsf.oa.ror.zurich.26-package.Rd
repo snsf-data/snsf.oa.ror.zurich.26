@@ -8,6 +8,13 @@
 \description{
 This package contains the code and data to reproduce an analysis presented at the Research on Research Event in Zürich on 2026/01/29. The analysis focuses on the coverage, within different academic databases, of scientific publications identified from Swiss National Science Foundation (SNSF) grants. Identifying these publications is critical for monitoring the open access of publications from SNSF grants.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://snsf-data.github.io/snsf.oa.ror.zurich.26/}
+}
+
+}
 \author{
 \strong{Maintainer}: Simon Gorin \email{simon.gorin@snf.ch} (\href{https://orcid.org/0000-0001-7462-0446}{ORCID})
 
