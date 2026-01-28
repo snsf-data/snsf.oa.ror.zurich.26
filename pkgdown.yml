@@ -1,0 +1,9 @@
+pandoc: 3.1.11
+pkgdown: 2.2.0
+pkgdown_sha: ~
+articles:
+  ror_presentation: ror_presentation.html
+last_built: 2026-01-28T10:21Z
+urls:
+  reference: https://snsf-data.github.io/snsf.oa.ror.zurich.26/reference
+  article: https://snsf-data.github.io/snsf.oa.ror.zurich.26/articles
