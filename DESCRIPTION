@@ -1,7 +1,7 @@
 Package: snsf.oa.ror.zurich.26
 Title: Code and data for an analysis of the SNSF OA monitoring presented
     at ROR Zürich 2026
-Version: 0.0.0.9000
+Version: 0.1.0
 Authors@R: 
     person("Simon", "Gorin", , "simon.gorin@snf.ch", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0001-7462-0446"))
