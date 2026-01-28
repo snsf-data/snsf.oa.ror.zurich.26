@@ -14,14 +14,14 @@ which was held on 29 January 2026 in Zürich, Switzerland. The event has
 been organized by the [Center for Reproducible Science and Research
 Synthesis](https://www.crs.uzh.ch/en.html).
 
-The poster of the presentation is available on
+The poster presented is available on
 [Zenodo](https://doi.org/10.46446/snsf-oa-poster-ror-event-26) and can
 be cited as follows:
 
 > Gorin, S. (2026). *Monitoring open access publications at the SNSF:
-> Challenges of open academic data* \[Poster presentation\].Research on
+> Challenges of open academic data* \[Poster presentation\]. Research on
 > Research Event 2026, Zürich, Switzerland.
-> <https://doi.org/10.46446/snsf-oa-poster-ror-event-26>.
+> <https://doi.org/10.46446/snsf-oa-poster-ror-event-26/>.
 
 The package, its code and the analysis contained in the vignette can be
 cited as follows:
@@ -43,5 +43,5 @@ devtools::install_github("snsf-data/snsf.oa.ror.zurich.26")
 
 The code to reproduce the analysis is available in the [“Monitoring open
 access publications at the SNSF: the challenges of open academic data”
-vignette](https://snsf-data.github.io/ERforResearch/articles/ror_presentation.html)
+vignette](https://snsf-data.github.io/snsf.oa.ror.zurich.26/articles/ror_presentation.html)
 under the article section.
