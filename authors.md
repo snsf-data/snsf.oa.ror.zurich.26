@@ -7,6 +7,9 @@
 
 ## Citation
 
+Source:
+[`DESCRIPTION`](https://github.com/snsf-data/snsf.oa.ror.zurich.26/blob/main/DESCRIPTION)
+
 Gorin S (2026). *snsf.oa.ror.zurich.26: Code and data for an analysis of
 the SNSF OA monitoring presented at ROR Zürich 2026*. R package version
 0.1.0, <https://snsf-data.github.io/snsf.oa.ror.zurich.26/>.

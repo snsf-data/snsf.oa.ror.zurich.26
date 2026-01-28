@@ -13,6 +13,8 @@ Useful links:
 
 - <https://snsf-data.github.io/snsf.oa.ror.zurich.26/>
 
+- <https://github.com/snsf-data/snsf.oa.ror.zurich.26>
+
 ## Author
 
 **Maintainer**: Simon Gorin <simon.gorin@snf.ch>
