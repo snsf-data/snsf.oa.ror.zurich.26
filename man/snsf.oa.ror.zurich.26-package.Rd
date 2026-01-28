@@ -12,6 +12,7 @@ This package contains the code and data to reproduce an analysis presented at th
 Useful links:
 \itemize{
   \item \url{https://snsf-data.github.io/snsf.oa.ror.zurich.26/}
+  \item \url{https://github.com/snsf-data/snsf.oa.ror.zurich.26}
 }
 
 }

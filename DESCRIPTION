@@ -40,4 +40,4 @@ Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
-URL: https://snsf-data.github.io/snsf.oa.ror.zurich.26/
+URL: https://snsf-data.github.io/snsf.oa.ror.zurich.26/, https://github.com/snsf-data/snsf.oa.ror.zurich.26
