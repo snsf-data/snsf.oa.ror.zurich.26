@@ -11,7 +11,3 @@ template:
     pkgdown-nav-height: 78px
   code:
     width: 71
-
-development:
-  mode: release
-  destination: ../inst/pkgdown
