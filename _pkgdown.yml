@@ -1,6 +1,7 @@
 url: https://snsf-data.github.io/snsf.oa.ror.zurich.26/
 template:
   bootstrap: 5
+  light-switch: true
   bslib:
     font_scale: 1.1
     fg: "#172431"
@@ -11,3 +12,6 @@ template:
     pkgdown-nav-height: 78px
   code:
     width: 71
+navbar:
+  structure:
+    right: [search, github, lightswitch]
