@@ -14,7 +14,7 @@ be cited as follows:
 > Gorin, S. (2026). *Monitoring open access publications at the SNSF:
 > Challenges of open academic data* \[Poster presentation\]. Research on
 > Research Event 2026, Zürich, Switzerland.
-> <https://doi.org/10.46446/snsf-oa-poster-ror-event-26/>.
+> <https://doi.org/10.46446/snsf-oa-poster-ror-event-26>.
 
 The package, its code and the analysis contained in the vignette can be
 cited as follows:
